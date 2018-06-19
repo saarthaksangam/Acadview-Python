@@ -2,10 +2,6 @@ import sqlite3
 import time
 import datetime
 import random
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-from matplotlib import style
-style.use('fivethirtyeight')
 
 def create_table():
 ##	c.execute('DROP TABLE stuffToPlot')
@@ -28,18 +24,6 @@ def read_from_db():
     c.execute("SELECT * FROM stuffToPlot")
     for row in c.fetchall():
         print(row)
-
-def graph_data():
-    c.execute('SELECT unix,value FROM stuffToPlot')
-    dates = []
-    values = []
-    for row in c.fetchall():
-        # print(row)
-        # print(datetime.datetime.fromtimestamp(row[1]))
-        dates.append(datetime.datetime.fromtimestamp(row[0]))
-        values.append(row[1])
-    plt.plot(dates,values, '-')
-    plt.show()
 
 try:
 	conn = sqlite3.connect('test.db')
