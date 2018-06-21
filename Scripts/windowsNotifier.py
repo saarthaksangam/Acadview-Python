@@ -1,5 +1,6 @@
 from win10toast import ToastNotifier
 toaster = ToastNotifier()
-toaster.show_toast("Hello World!!!","Python is 10 seconds awsm!",icon_path="favicon.ico",duration=10)
+for i in range(10):
+	toaster.show_toast("Virus Warning","Stealing data",icon_path="favicon.ico",duration=2)
 
-toaster.show_toast("Example two","This notification is in it's own thread!",icon_path=None,duration=5,threaded=True)
+toaster.show_toast("Example two","This notification is in it's own thread!",icon_path=None,duration=2,threaded=True)
