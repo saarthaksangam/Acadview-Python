@@ -1,0 +1,70 @@
+Madhav
+Rahul	-> Github Profile Analyzer
+Vaibhav
+
+A Manikanta
+Teja sai	->  Text Editor
+Ravi teja
+
+Amandeep
+Rashid	-> Command line match score
+Anurag
+
+
+Ruplal Kumar 
+Aseem	->  Keylogger Hack
+Tarandeep Singh
+
+Krishna Kumar Singh
+Avinash Sharma 	-> Quiz App,Image Classifier
+Vishwa pratap singh
+
+Vamsi
+Vinay Kumar	->	Ecommerce Image Classifier
+Dusanapudi
+
+Ankur pandey	-> Face recognition attendance system
+Swetank
+
+Manideep
+Bongi rakesh	-> Car game
+Hareram
+
+Pranav
+Shagun	-> GUI Text Editor
+Ujjwal
+
+Sumit Sharma
+Yogesh pol	->
+Aman Jain
+
+Harjot
+Tushar Malhotra	->	Weather App
+Puneet
+
+Abhinandan
+Shashank	-> KeyLogger Hack
+Prabudh
+
+Roshan lal
+Shivam Singh    -> URL Shortener API
+Rahul Anand
+
+Dheeraj
+Kunal			-> Twitter Sentiment analysis
+
+
+Avinash Kumar Singh
+Bendamuri Madhu sudhan	-> Face Recognition Attendance System
+Kondisetty Seshu kumar
+
+Bhavanasi Amaresh
+Gali Yoganandha	->	Music Downloader Chatbot
+Mohan sai krishna
+
+Sunil Kumar 
+Venktesh	-> Car Game
+Debatulya
+
+Ravi Kumar
+Alok Nath
