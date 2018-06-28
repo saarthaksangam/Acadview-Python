@@ -35,7 +35,7 @@ Shagun	-> GUI Text Editor
 Ujjwal
 
 Sumit Sharma
-Yogesh pol	->
+Yogesh pol	-> To Do list Chatbot
 Aman Jain
 
 Harjot
@@ -66,5 +66,9 @@ Sunil Kumar
 Venktesh	-> Car Game
 Debatulya
 
-Ravi Kumar
-Alok Nath
+Ashutosh		->  Face recognition Attendance system
+
+Alok Nath	-> 	Theme based Text Editor
+
+Sai Deep		-> Quiz  App 
+Sai Harshit
